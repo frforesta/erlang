@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 '''
 This is an Erlang formulas calculator, brought to you by Francesco Foresta (fr.foresta@gmail.com, francesco.foresta@studio.unibo.it)
 
@@ -10,3 +11,6 @@ This code is not to be intended for profit, it is just a didactic instrument tha
  
 This code is also open source and everybody can take and modify it, but I kindly ask you to let me know when this happens as well as I will be happy to be cited in the resulting project :)
 '''
+=======
+# erlang
+>>>>>>> b63deb1b7f2dae740dd67636790120e722af7656
